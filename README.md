@@ -114,6 +114,8 @@ All my work is pinned right below this profile — from RAG-powered AI tools to 
 
 </div>
 
+<img src="https://raw.githubusercontent.com/parinmakwana18/parinmakwana18/main/parin-name-snake.svg" width="100%"/>
+
 <br/>
 
 <div align="center">
