@@ -4,6 +4,10 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=22&duration=2800&pause=900&color=6E6480&center=true&vCenter=true&width=650&lines=Building+intelligent+systems+today.;Creating+interactive+worlds+tomorrow.;RAG+%2B+LLMs+%2B+Scalable+Backend+Systems;Currently+shipping+something+new+%F0%9F%9A%80" alt="Typing SVG" />
 
+<br/>
+
+<img src="https://raw.githubusercontent.com/parinmakwana18/parinmakwana18/main/parin-name-snake.svg" width="100%"/>
+
 </div>
 
 <br/>
@@ -79,14 +83,14 @@ All my work is pinned right below this profile — from RAG-powered AI tools to 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=parinbajayebin&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parinbajayebin&layout=compact&theme=radical&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=parinmakwana18&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parinmakwana18&layout=compact&theme=radical&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=parinbajayebin&theme=radical&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=parinmakwana18&theme=radical&hide_border=true" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=parinbajayebin&theme=radical&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=parinmakwana18&theme=radical&no-frame=true&row=1&column=6" />
 
-<img src="https://komarev.com/ghpvc/?username=parinbajayebin&label=Profile%20Views&color=f2a65a&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=parinmakwana18&label=Profile%20Views&color=f2a65a&style=for-the-badge" />
 
 </div>
 
@@ -96,7 +100,7 @@ All my work is pinned right below this profile — from RAG-powered AI tools to 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/parinbajayebin/parinbajayebin/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/parinmakwana18/parinmakwana18/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
@@ -113,8 +117,6 @@ All my work is pinned right below this profile — from RAG-powered AI tools to 
 </a>
 
 </div>
-
-<img src="https://raw.githubusercontent.com/parinmakwana18/parinmakwana18/main/parin-snake.svg" width="100%"/>
 
 <br/>
 
